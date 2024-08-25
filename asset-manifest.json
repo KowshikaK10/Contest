@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KowshikaK10/Contest/static/css/main.2d44430f.css",
+    "main.js": "/KowshikaK10/Contest/static/js/main.73b97f5f.js",
+    "index.html": "/KowshikaK10/Contest/index.html",
+    "main.2d44430f.css.map": "/KowshikaK10/Contest/static/css/main.2d44430f.css.map",
+    "main.73b97f5f.js.map": "/KowshikaK10/Contest/static/js/main.73b97f5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d44430f.css",
+    "static/js/main.73b97f5f.js"
+  ]
+}
